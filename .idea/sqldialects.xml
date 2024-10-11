@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/39428f56-56cb-4c39-b42c-40a1c1c2cb2a/console.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/main.py" dialect="GenericSQL" />
+    <file url="PROJECT" dialect="PostgreSQL" />
+  </component>
+</project>
